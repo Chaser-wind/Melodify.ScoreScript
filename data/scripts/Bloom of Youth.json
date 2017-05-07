@@ -1,0 +1,366 @@
+{
+  "name": "Bloom of Youth",  
+  "bpm": 67,
+  "temperament": "Equal Temperament",
+  "scores":
+  [
+    {
+      "soundSource": "piano",
+      "notes":
+      [
+        { "name": "Bb", "period": 5, "position": 0 },
+        { "name": "Bb", "period": 6, "position": 0.5 },
+        { "name": "G", "period": 6, "position": 1 },
+        { "name": "F", "period": 6, "position": 1.25 },
+        { "name": "F", "period": 6, "position": 2 },
+        { "name": "F", "period": 6, "position": 2.5 },
+        { "name": "Eb", "period": 6, "position": 3 },
+        { "name": "F", "period": 6, "position": 3.25 },
+
+        { "name": "Bb", "period": 5, "position": 4 },
+        { "name": "Bb", "period": 6, "position": 4.5 },
+        { "name": "G", "period": 6, "position": 5 },
+        { "name": "F", "period": 6, "position": 5.25 },
+        { "name": "F", "period": 6, "position": 6 },
+        { "name": "F", "period": 6, "position": 6.5 },
+        { "name": "Eb", "period": 6, "position": 7 },
+        { "name": "F", "period": 6, "position": 7.25 },
+
+        { "name": "Bb", "period": 5, "position": 8 },
+        { "name": "Bb", "period": 6, "position": 8.5 },
+        { "name": "G", "period": 6, "position": 9 },
+        { "name": "F", "period": 6, "position": 9.25 },
+        { "name": "F", "period": 6, "position": 10 },
+        { "name": "F", "period": 6, "position": 10.5 },
+        { "name": "Eb", "period": 6, "position": 11 },
+        { "name": "F", "period": 6, "position": 11.25 },
+        
+        { "name": "G", "period": 6, "position": 12 },
+        { "name": "Eb", "period": 6, "position": 12.5 },
+        { "name": "F", "period": 6, "position": 13 },
+        { "name": "G", "period": 6, "position": 13.5 },
+        
+        { "name": "Eb", "period": 6, "position": 16 },
+        { "name": "Bb", "period": 6, "position": 16.5 },
+        { "name": "G", "period": 6, "position": 17 },
+        { "name": "F", "period": 6, "position": 17.25 },
+        { "name": "F", "period": 6, "position": 18 },
+        { "name": "F", "period": 6, "position": 18.5 },
+        { "name": "Eb", "period": 6, "position": 19 },
+        { "name": "F", "period": 6, "position": 19.25 },
+
+        { "name": "Eb", "period": 6, "position": 20.75 },
+        { "name": "F", "period": 6, "position": 21 },
+        { "name": "G", "period": 6, "position": 21.25 },
+        { "name": "G", "period": 6, "position": 21.5 },
+        { "name": "Ab", "period": 6, "position": 22 },
+        { "name": "G", "period": 6, "position": 22.5 },
+        { "name": "F", "period": 6, "position": 23 },
+        { "name": "Eb", "period": 6, "position": 23.5 },
+
+        { "name": "Eb", "period": 6, "position": 24.5 },
+        { "name": "F", "period": 6, "position": 25 },
+        { "name": "Eb", "period": 6, "position": 25.5 },
+
+        { "name": "Eb", "period": 6, "position": 26.5 },
+        { "name": "Eb", "period": 6, "position": 27 },
+        { "name": "F#", "period": 6, "position": 27.5 },
+        { "name": "F", "period": 6, "position": 27.75 },
+
+        { "name": "Bb", "period": 5, "position": 28.5 },
+        { "name": "C#", "period": 6, "position": 29 },
+        { "name": "F", "period": 6, "position": 29.5 },
+        { "name": "Eb", "period": 6, "position": 29.75 },
+        { "name": "Eb", "period": 6, "position": 30.25 },
+        
+        { "name": "Eb", "period": 5, "position": 33.5 },
+        { "name": "Bb", "period": 5, "position": 33.5625 },
+        { "name": "Eb", "period": 6, "position": 33.625 },
+
+
+        { "name": "Bb", "period": 4, "position": 36 },
+        { "name": "Bb", "period": 5, "position": 36.5 },
+        { "name": "G", "period": 5, "position": 37 },
+        { "name": "F", "period": 5, "position": 37.25 },
+        { "name": "F", "period": 5, "position": 38 },
+        { "name": "F", "period": 5, "position": 38.5 },
+        { "name": "Eb", "period": 5, "position": 39 },
+        { "name": "F", "period": 5, "position": 39.25 },
+
+        { "name": "Bb", "period": 4, "position": 40 },
+        { "name": "Bb", "period": 5, "position": 40.5 },
+        { "name": "G", "period": 5, "position": 41 },
+        { "name": "F", "period": 5, "position": 41.25 },
+        { "name": "F", "period": 5, "position": 42 },
+        { "name": "F", "period": 5, "position": 42.5 },
+        { "name": "Eb", "period": 5, "position": 43 },
+        { "name": "F", "period": 5, "position": 43.25 },
+
+        { "name": "Bb", "period": 4, "position": 44 },
+        { "name": "Bb", "period": 5, "position": 44.5 },
+        { "name": "G", "period": 5, "position": 45 },
+        { "name": "F", "period": 5, "position": 45.25 },
+        { "name": "F", "period": 5, "position": 46 },
+        { "name": "F", "period": 5, "position": 46.5 },
+        { "name": "Eb", "period": 5, "position": 47 },
+        { "name": "F", "period": 5, "position": 47.25 },
+        
+        { "name": "G", "period": 5, "position": 48 },
+        { "name": "Eb", "period": 5, "position": 48.5 },
+        { "name": "F", "period": 5, "position": 49 },
+        { "name": "G", "period": 5, "position": 49.5 },
+
+        
+        { "name": "Eb", "period": 5, "position": 52 },
+        { "name": "Bb", "period": 5, "position": 52.5 },
+        { "name": "G", "period": 5, "position": 53 },
+        { "name": "F", "period": 5, "position": 53.25 },
+        { "name": "F", "period": 5, "position": 54 },
+        { "name": "F", "period": 5, "position": 54.5 },
+        { "name": "Eb", "period": 5, "position": 55 },
+        { "name": "F", "period": 5, "position": 55.25 },
+
+        { "name": "Eb", "period": 5, "position": 56.75 },
+        { "name": "F", "period": 5, "position": 57 },
+        { "name": "G", "period": 5, "position": 57.25 },
+        { "name": "G", "period": 5, "position": 57.5 },
+        { "name": "Ab", "period": 5, "position": 58 },
+        { "name": "G", "period": 5, "position": 58.5 },
+        { "name": "F", "period": 5, "position": 59 },
+        { "name": "Eb", "period": 5, "position": 59.5 },
+
+        { "name": "Eb", "period": 5, "position": 60.5 },
+        { "name": "F", "period": 5, "position": 61 },
+        { "name": "Eb", "period": 5, "position": 61.5 },
+
+        { "name": "Eb", "period": 5, "position": 62.5 },
+        { "name": "Eb", "period": 5, "position": 63 },
+        { "name": "F#", "period": 5, "position": 63.5 },
+        { "name": "F", "period": 5, "position": 63.75 },
+
+        { "name": "Bb", "period": 4, "position": 64.5 },
+        { "name": "Eb", "period": 5, "position": 65 },
+        { "name": "F", "period": 5, "position": 65.5 },
+        { "name": "Eb", "period": 5, "position": 65.75 },
+        { "name": "Eb", "period": 5, "position": 66.25 },
+
+        { "name": "Eb", "period": 5, "position": 68.75 },
+        { "name": "F", "period": 5, "position": 69 },
+        { "name": "G", "period": 5, "position": 69.25 },
+        { "name": "Ab", "period": 5, "position": 69.5 },
+        { "name": "Bb", "period": 5, "position": 70.25 },
+        { "name": "Eb", "period": 6, "position": 71 },
+
+        { "name": "Ab", "period": 3, "position": 1.5 },
+        { "name": "Eb", "period": 4, "position": 2 },
+        { "name": "Ab", "period": 4, "position": 2.5 },
+        { "name": "Bb", "period": 4, "position": 3.25 },
+
+        { "name": "Ab", "period": 4, "position": 4 },
+        { "name": "Eb", "period": 4, "position": 4.5 },
+        
+        { "name": "Bb", "period": 3, "position": 5.5 },
+        { "name": "F", "period": 4, "position": 6 },
+        { "name": "Bb", "period": 4, "position": 6.5 },
+        { "name": "C", "period": 5, "position": 7.25 },
+        
+        { "name": "Bb", "period": 4, "position": 8 },
+        { "name": "F", "period": 4, "position": 8.5 },
+        
+        { "name": "G", "period": 3, "position": 9.5 },
+        { "name": "Eb", "period": 4, "position": 10 },
+        { "name": "G", "period": 4, "position": 10.5 },
+        { "name": "Bb", "period": 4, "position": 11.25 },
+        { "name": "G", "period": 4, "position": 12 },
+        { "name": "Eb", "period": 4, "position": 12.5 },
+        
+        { "name": "C", "period": 4, "position": 13.5 },
+        { "name": "G", "period": 4, "position": 14 },
+        { "name": "C", "period": 5, "position": 14.5 },
+        { "name": "D", "period": 5, "position": 15.25 },
+        
+        { "name": "C", "period": 5, "position": 16 },
+        { "name": "G", "period": 5, "position": 16.5 },
+        { "name": "Ab", "period": 3, "position": 17.5 },
+        { "name": "Eb", "period": 4, "position": 18 },
+        { "name": "Ab", "period": 4, "position": 18.5 },
+        { "name": "Bb", "period": 4, "position": 19.25 },
+
+        { "name": "Ab", "period": 4, "position": 20 },
+        { "name": "Eb", "period": 4, "position": 20.5 },
+
+        { "name": "Bb", "period": 3, "position": 21.5 },
+        { "name": "F", "period": 4, "position": 22 },
+        { "name": "Bb", "period": 4, "position": 22.5 },
+        { "name": "C", "period": 5, "position": 23.25 },
+        
+        { "name": "Bb", "period": 4, "position": 24 },
+        { "name": "F", "period": 5, "position": 24.5 },
+        { "name": "Eb", "period": 5, "position": 25 },
+
+        { "name": "B", "period": 2, "position": 25.5 },
+        { "name": "F#", "period": 3, "position": 26 },
+        { "name": "B", "period": 3, "position": 26.5 },
+        { "name": "C#", "period": 4, "position": 27 },
+
+        { "name": "C#", "period": 3, "position": 27.5 },
+        { "name": "G#", "period": 3, "position": 28 },
+        { "name": "C#", "period": 4, "position": 28.5 },
+        { "name": "Eb", "period": 4, "position": 29 },
+        
+        { "name": "Eb", "period": 3, "position": 29.5 },
+        { "name": "Bb", "period": 3, "position": 30 },
+        { "name": "Eb", "period": 4, "position": 30.5 },
+        { "name": "F", "period": 4, "position": 31 },
+        { "name": "G", "period": 4, "position": 31.5 },
+        { "name": "Bb", "period": 4, "position": 32 },
+        { "name": "D", "period": 5, "position": 32.5 },
+        { "name": "Eb", "period": 5, "position": 33 },
+
+        { "name": "Eb", "period": 3, "position": 33.5 },
+        { "name": "Bb", "period": 3, "position": 34 },
+        { "name": "Eb", "period": 4, "position": 34.5 },
+        { "name": "F", "period": 4, "position": 35 },
+        { "name": "G", "period": 4, "position": 35.5 },
+
+        { "name": "Ab", "period": 2, "position": 37.5 },
+        { "name": "Eb", "period": 3, "position": 38 },
+        { "name": "Ab", "period": 3, "position": 38.5 },
+        { "name": "Bb", "period": 3, "position": 39 },
+        { "name": "C", "period": 4, "position": 39.5 },
+        
+        { "name": "Eb", "period": 4, "position": 40.5 },
+        
+        { "name": "Bb", "period": 2, "position": 41.5 },
+        { "name": "F", "period": 3, "position": 42 },
+        { "name": "Bb", "period": 3, "position": 42.5 },
+        { "name": "C", "period": 4, "position": 43 },
+        { "name": "Eb", "period": 4, "position": 43.5 },
+        
+        { "name": "C", "period": 4, "position": 44.5 },
+        
+        { "name": "Bb", "period": 2, "position": 45.5 },
+        { "name": "G", "period": 3, "position": 45.5 },
+        { "name": "Eb", "period": 3, "position": 46 },
+        { "name": "G", "period": 3, "position": 46.5 },
+        { "name": "Bb", "period": 3, "position": 47 },
+        { "name": "Eb", "period": 4, "position": 47.5 },
+        
+        { "name": "C", "period": 3, "position": 49.5 },
+        { "name": "G", "period": 3, "position": 50 },
+        { "name": "C", "period": 4, "position": 50.5 },
+        { "name": "D", "period": 4, "position": 51 },
+        { "name": "Eb", "period": 4, "position": 51.5 },
+
+        { "name": "G", "period": 4, "position": 52.5 },
+        { "name": "F", "period": 4, "position": 52.75 },
+        { "name": "Eb", "period": 4, "position": 53 },
+        
+        { "name": "Ab", "period": 2, "position": 53.5 },
+        { "name": "Eb", "period": 3, "position": 54 },
+        { "name": "Ab", "period": 3, "position": 54.5 },
+        { "name": "Bb", "period": 3, "position": 55 },
+        { "name": "C", "period": 4, "position": 55.5 },
+        
+        { "name": "Eb", "period": 4, "position": 56.5 },
+
+        { "name": "Bb", "period": 2, "position": 57.5 },
+        { "name": "F", "period": 3, "position": 58 },
+        { "name": "Bb", "period": 3, "position": 58.5 },
+        { "name": "C", "period": 4, "position": 59 },
+        { "name": "Eb", "period": 4, "position": 59.5 },
+
+        { "name": "B", "period": 2, "position": 61.5 },
+        { "name": "F#", "period": 3, "position": 62 },
+        { "name": "C#", "period": 4, "position": 62.5 },
+        { "name": "Eb", "period": 4, "position": 63 },
+        { "name": "Ab", "period": 2, "position": 63.5 },
+        { "name": "C#", "period": 3, "position": 64 },
+        { "name": "Eb", "period": 3, "position": 64.5 },
+        { "name": "F", "period": 3, "position": 65 },
+        
+        { "name": "Eb", "period": 2, "position": 65.5 },
+        { "name": "Bb", "period": 2, "position": 66 },
+        { "name": "Eb", "period": 3, "position": 66.5 },
+        { "name": "F", "period": 3, "position": 67 },
+        { "name": "G", "period": 3, "position": 67.5 },
+        { "name": "Bb", "period": 3, "position": 68 },
+        { "name": "D", "period": 4, "position": 68.5 },
+        { "name": "Eb", "period": 3, "position": 69 },
+
+        { "name": "Bb", "period": 2, "position": 69.5 },
+        { "name": "Bb", "period": 3, "position": 70 },
+        { "name": "F", "period": 4, "position": 70.5 },
+        { "name": "F", "period": 4, "position": 71 }
+      ]
+    },
+    {
+      "soundSource": "guitar",
+      "notes":
+      [
+        { "name": "Ab", "period": 2, "position": 37.5 },
+        { "name": "Eb", "period": 3, "position": 38 },
+        { "name": "Ab", "period": 3, "position": 38.5 },
+        { "name": "Eb", "period": 4, "position": 39 },
+        { "name": "F", "period": 4, "position": 39.25 },
+        
+        { "name": "Bb", "period": 2, "position": 41.5 },
+        { "name": "Eb", "period": 3, "position": 42 },
+        { "name": "Bb", "period": 3, "position": 42.5 },
+        { "name": "Eb", "period": 4, "position": 43 },
+        { "name": "F", "period": 4, "position": 43.25 },
+        
+        { "name": "G", "period": 4, "position": 44.5 },
+        { "name": "F", "period": 4, "position": 45 },
+        { "name": "G", "period": 2, "position": 45.5 },
+        { "name": "Eb", "period": 3, "position": 46 },
+        { "name": "G", "period": 3, "position": 46.5 },
+        { "name": "Eb", "period": 4, "position": 47 },
+        { "name": "F", "period": 4, "position": 47.25 },
+        
+        { "name": "G", "period": 4, "position": 48.5 },
+
+        { "name": "C", "period": 4, "position": 49.5 },
+        { "name": "G", "period": 3, "position": 50 },
+        { "name": "C", "period": 4, "position": 50.5 },
+        { "name": "D", "period": 4, "position": 51 },
+        { "name": "Eb", "period": 4, "position": 51.25 },
+        
+        { "name": "F", "period": 4, "position": 52 },
+        { "name": "G", "period": 4, "position": 52.5 },
+
+        { "name": "Ab", "period": 2, "position": 53.5 },
+        { "name": "Eb", "period": 3, "position": 54 },
+        { "name": "Ab", "period": 3, "position": 54.5 },
+        { "name": "Eb", "period": 4, "position": 55 },
+        { "name": "F", "period": 4, "position": 55.25 },
+        
+        { "name": "Bb", "period": 2, "position": 57.5 },
+        { "name": "F", "period": 3, "position": 58 },
+        { "name": "Bb", "period": 3, "position": 58.5 },
+        { "name": "C", "period": 4, "position": 59 },
+        { "name": "Eb", "period": 4, "position": 59.5 },
+
+        { "name": "B", "period": 2, "position": 61.5 },
+        { "name": "F#", "period": 3, "position": 62 },
+        { "name": "C#", "period": 4, "position": 62.5 },
+        { "name": "Eb", "period": 4, "position": 63 },
+        { "name": "F", "period": 4, "position": 64 },
+        { "name": "Eb", "period": 4, "position": 65 },
+        
+        { "name": "Eb", "period": 2, "position": 65.5 },
+        { "name": "Bb", "period": 2, "position": 66 },
+        { "name": "Eb", "period": 3, "position": 66.5 },
+        { "name": "F", "period": 3, "position": 67 },
+        { "name": "G", "period": 3, "position": 67.5 },
+        { "name": "Bb", "period": 3, "position": 68 },
+        { "name": "D", "period": 4, "position": 68.5 },
+
+        { "name": "Eb", "period": 3, "position": 69.5 },
+        { "name": "Bb", "period": 3, "position": 70 },
+        { "name": "Eb", "period": 4, "position": 70.5 },
+        { "name": "Eb", "period": 4, "position": 71 } 
+      ]
+    }
+  ]
+}

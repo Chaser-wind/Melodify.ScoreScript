@@ -1,0 +1,202 @@
+[
+  {
+    "startTimeInMS": 610,
+    "endTimeInMS": 6550,
+    "frequency": 87.307058,
+    "extendable": false,
+    "extStartTimeInMS": 900,
+    "extEndTimeInMS": 930
+  },
+  {
+    "startTimeInMS": 7015,
+    "endTimeInMS": 11400,
+    "frequency": 97.998859,
+    "extendable": false,
+    "extStartTimeInMS": 7380,
+    "extEndTimeInMS": 7400
+  },
+  {
+    "startTimeInMS": 12067,
+    "endTimeInMS": 17400,
+    "frequency": 110.000000,
+    "extendable": false,
+    "extStartTimeInMS": 12597,
+    "extEndTimeInMS": 12606
+  },
+  {
+    "startTimeInMS": 17884,
+    "endTimeInMS": 24200,
+    "frequency": 123.470825,
+    "extendable": false,
+    "extStartTimeInMS": 18440,
+    "extEndTimeInMS": 18480
+  },
+  {
+    "startTimeInMS": 24930,
+    "endTimeInMS": 32550,
+    "frequency": 130.812783,
+    "extendable": false,
+    "extStartTimeInMS": 25400,
+    "extEndTimeInMS": 25530
+  },
+  {
+    "startTimeInMS": 33220,
+    "endTimeInMS": 40980,
+    "frequency": 146.832384,
+    "extendable": false,
+    "extStartTimeInMS": 33505,
+    "extEndTimeInMS": 33670
+  },
+  {
+    "startTimeInMS": 41340,
+    "endTimeInMS": 46000,
+    "frequency": 164.813778,
+    "extendable": false,
+    "extStartTimeInMS": 41785,
+    "extEndTimeInMS": 41800
+  },
+  {
+    "startTimeInMS": 46935,
+    "endTimeInMS": 51000,
+    "frequency": 174.614116,
+    "extendable": false,
+    "extStartTimeInMS": 47210,
+    "extEndTimeInMS": 47215
+  },
+  {
+    "startTimeInMS": 60200,
+    "endTimeInMS": 66000,
+    "frequency": 195.997718,
+    "extendable": false,
+    "extStartTimeInMS": 60417,
+    "extEndTimeInMS": 60420
+  },
+  {
+    "startTimeInMS": 67400,
+    "endTimeInMS": 74000,
+    "frequency": 220.000000,
+    "extendable": false,
+    "extStartTimeInMS": 67738,
+    "extEndTimeInMS": 67756
+  },
+  {
+    "startTimeInMS": 75688,
+    "endTimeInMS": 83000,
+    "frequency": 246.941651,
+    "extendable": false,
+    "extStartTimeInMS": 76110,
+    "extEndTimeInMS": 76130
+  },
+  {
+    "startTimeInMS": 84300,
+    "endTimeInMS": 90000,
+    "frequency": 261.625565,
+    "extendable": false,
+    "extStartTimeInMS": 84860,
+    "extEndTimeInMS": 84940
+  },
+  {
+    "startTimeInMS": 91225,
+    "endTimeInMS": 95800,
+    "frequency": 293.664768,
+    "extendable": false,
+    "extStartTimeInMS": 91448,
+    "extEndTimeInMS": 91451
+  },
+  {
+    "startTimeInMS": 96830,
+    "endTimeInMS": 102000,
+    "frequency": 329.627557,
+    "extendable": false,
+    "extStartTimeInMS": 96970,
+    "extEndTimeInMS": 96973
+  },
+  {
+    "startTimeInMS": 103240,
+    "endTimeInMS": 107000,
+    "frequency": 349.228231,
+    "extendable": false,
+    "extStartTimeInMS": 104030,
+    "extEndTimeInMS": 104050
+  },
+  {
+    "startTimeInMS": 108200,
+    "endTimeInMS": 112000,
+    "frequency": 391.995436,
+    "extendable": false,
+    "extStartTimeInMS": 108790,
+    "extEndTimeInMS": 108795
+  },
+  {
+    "startTimeInMS": 113079,
+    "endTimeInMS": 116500,
+    "frequency": 440.000000,
+    "extendable": false,
+    "extStartTimeInMS": 113560,
+    "extEndTimeInMS": 113585
+  },
+  {
+    "startTimeInMS": 117710,
+    "endTimeInMS": 120500,
+    "frequency": 493.883301,
+    "extendable": false,
+    "extStartTimeInMS": 118000,
+    "extEndTimeInMS": 118010
+  },
+  {
+    "startTimeInMS": 121820,
+    "endTimeInMS": 125000,
+    "frequency": 523.251131,
+    "extendable": false,
+    "extStartTimeInMS": 122000,
+    "extEndTimeInMS": 122012
+  },
+  {
+    "startTimeInMS": 126025,
+    "endTimeInMS": 128000,
+    "frequency": 587.329536,
+    "extendable": false,
+    "extStartTimeInMS": 126110,
+    "extEndTimeInMS": 126120
+  },
+  {
+    "startTimeInMS": 130910,
+    "endTimeInMS": 133000,
+    "frequency": 659.255114,
+    "extendable": false,
+    "extStartTimeInMS": 131030,
+    "extEndTimeInMS": 131045
+  },
+  {
+    "startTimeInMS": 134620,
+    "endTimeInMS": 137000,
+    "frequency": 698.456463,
+    "extendable": false,
+    "extStartTimeInMS": 134760,
+    "extEndTimeInMS": 134770
+  },
+  {
+    "startTimeInMS": 138661,
+    "endTimeInMS": 141500,
+    "frequency": 783.990872,
+    "extendable": false,
+    "extStartTimeInMS": 139000,
+    "extEndTimeInMS": 139005
+  },
+  {
+    "startTimeInMS": 147138,
+    "endTimeInMS": 149000,
+    "frequency": 880.000000,
+    "extendable": false,
+    "extStartTimeInMS": 147320,
+    "extEndTimeInMS": 147329
+  },
+  {
+    "startTimeInMS": 162320,
+    "endTimeInMS": 163300,
+    "frequency": 987.766603,
+    "extendable": false,
+    "extStartTimeInMS": 202454,
+    "extEndTimeInMS": 202456
+  }
+]

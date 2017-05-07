@@ -1,0 +1,8 @@
+*.db*
+*.class
+*.exe
+*.o
+*out*.wav
+test/*
+*.pdf
+bin/*

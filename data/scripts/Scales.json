@@ -1,0 +1,29 @@
+{
+  "name": "Scales",  
+  "bpm": 30,
+  "temperament": "Pythagorean Tuning",
+  "scores":
+  [
+    {
+      "soundSource": "sine",
+      "notes":
+      [
+        { "name": "A", "period": 3, "position": 0, "length": 1 },
+        { "name": "B", "period": 3, "position": 1, "length": 1 },
+        { "name": "C", "period": 4, "position": 2, "length": 1 },
+        { "name": "D", "period": 4, "position": 3, "length": 1 },
+        { "name": "E", "period": 4, "position": 4, "length": 1 },
+        { "name": "F", "period": 4, "position": 5, "length": 1 },
+        { "name": "G", "period": 4, "position": 6, "length": 1 },
+        { "name": "A", "period": 4, "position": 7, "length": 1 },
+        { "name": "B", "period": 4, "position": 8, "length": 1 },
+        { "name": "C", "period": 5, "position": 9, "length": 1 },
+        { "name": "D", "period": 5, "position": 10, "length": 1 },
+        { "name": "E", "period": 5, "position": 11, "length": 1 },
+        { "name": "F", "period": 5, "position": 12, "length": 1 },
+        { "name": "G", "period": 5, "position": 13, "length": 1 },
+        { "name": "A", "period": 5, "position": 14, "length": 1 },
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+[
+  {
+    "name": "Equal Temperament",
+    "refNoteName": "A",
+    "refNotePeriod": 4,
+    "refFrequency": 440.0,
+    "notesInPeriod":
+    [
+      { "name": "Cb", "multiInCents": -100},
+      { "name": "C", "multiInCents": 0},
+      { "name": "C#", "multiInCents": 100},
+      { "name": "Db", "multiInCents": 100},
+      { "name": "D", "multiInCents": 200},
+      { "name": "D#", "multiInCents": 300},
+      { "name": "Eb", "multiInCents": 300},
+      { "name": "E", "multiInCents": 400},
+      { "name": "E#", "multiInCents": 500},
+      { "name": "Fb", "multiInCents": 400},
+      { "name": "F", "multiInCents": 500},
+      { "name": "F#", "multiInCents": 600},
+      { "name": "Gb", "multiInCents": 600},
+      { "name": "G", "multiInCents": 700},
+      { "name": "G#", "multiInCents": 800},
+      { "name": "Ab", "multiInCents": 800},
+      { "name": "A", "multiInCents": 900},
+      { "name": "A#", "multiInCents": 1000},
+      { "name": "Bb", "multiInCents": 1000},
+      { "name": "B", "multiInCents": 1100},
+      { "name": "B#", "multiInCents": 1200}
+    ],
+    "periodMultiInCents": 1200,
+    "baseNoteName": "C"
+  },
+  {
+    "name": "Just Intonation",
+    "refNoteName": "A",
+    "refNotePeriod": 4,
+    "refFrequency": 440.0,
+    "notesInPeriod":
+    [
+      { "name": "C", "multiInCents": 0},
+      { "name": "D", "multiInCents": 204},
+      { "name": "E", "multiInCents": 386},
+      { "name": "F", "multiInCents": 498},
+      { "name": "G", "multiInCents": 702},
+      { "name": "A", "multiInCents": 884},
+      { "name": "B", "multiInCents": 1088}
+    ],
+    "periodMultiInCents": 1200,
+    "baseNoteName": "C"
+  }, 
+  {
+    "name": "Pythagorean Tuning",
+    "refNoteName": "A",
+    "refNotePeriod": 4,
+    "refFrequency": 440.0,
+    "notesInPeriod":
+    [
+      { "name": "C", "multiInCents": -204},
+      { "name": "C#", "multiInCents": -90},
+      { "name": "D", "multiInCents": 0},
+      { "name": "Eb", "multiInCents": 90},
+      { "name": "E", "multiInCents": 204},
+      { "name": "F", "multiInCents": 294},
+      { "name": "F#", "multiInCents": 408},
+      { "name": "G", "multiInCents": 498},
+      { "name": "Ab", "multiInCents": 588},
+      { "name": "G#", "multiInCents": 612},
+      { "name": "A", "multiInCents": 702},
+      { "name": "Bb", "multiInCents": 792},
+      { "name": "B", "multiInCents": 906}
+    ],
+    "periodMultiInCents": 1200,
+    "baseNoteName": "D"
+  }
+]

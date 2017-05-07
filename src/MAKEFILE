@@ -1,0 +1,16 @@
+# Auto generated file, modify needed to let `make` run correctly.
+
+TARGET := .
+JAVAC := javac
+PACKAGES := com.github.ShiftAC.Melodify.Util;com.github.ShiftAC.Melodify.Util.RIFF;com.github.ShiftAC.Melodify.ScoreScript;org.json;
+JAVASRCPATH := $(subst .,/,$(PACKAGES))
+JAVASRC := $(subst ;,/*.java ,$(JAVASRCPATH)) 
+JAVAFLAGS := -encoding utf8
+
+.PHONY: all
+all:
+	$(JAVAC) -d $(TARGET) $(JAVAFLAGS) -sourcepath $(JAVASRCPATH) $(JAVASRC)
+
+.PHONY: clean
+clean:
+	-rm *.class *~

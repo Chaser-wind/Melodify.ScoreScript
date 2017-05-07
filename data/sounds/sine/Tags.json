@@ -1,0 +1,10 @@
+[
+  {
+    "startTimeInMS": 0,
+    "endTimeInMS": 1000,
+    "frequency": 440,
+    "extendable": true,
+    "extStartTimeInMS": 0,
+    "extEndTimeInMS": 997.732
+  }
+]

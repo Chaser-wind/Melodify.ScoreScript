@@ -1,0 +1,27 @@
+# Auto generated file, modify if you want to add functions.
+
+ARGS =
+
+.PHONY: all
+all:
+	-mkdir bin
+	make -C src TARGET=../bin
+
+.PHONY: run
+run: all
+	java -Xmx1024m -cp ./bin/ com.github.ShiftAC.Melodify.ScoreScript.Main $(ARGS)
+
+.PHONY: clean
+clean:
+	-rm -r bin/*
+	-rm *.wav
+	make -C src clean
+	make -C test clean
+
+.PHONY: test
+test: all
+	make -C test
+	java -Xmx1024m -cp ./test;./bin; test $(ARGS)
+
+README: README.md
+	pandoc README.md --latex-engine=xelatex -o README.pdf
